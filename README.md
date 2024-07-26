@@ -1,8 +1,8 @@
 # Spotify Homepage Clone 
 
-## Project Overview
 This project is a clone of the Spotify homepage, built using HTML and CSS. It is designed specifically for desktop screens and is not responsive for other screen sizes. The clone includes a sidebar, main content area with various sections like "Recently Played" and "Trending Now," and a music player at the bottom.
 
+ **[View Live](https://manish-singh-ranawat.github.io/Spotify-Desktop-Home-page/)**
 
 ## Features
 - **Sidebar**: Contains navigation options like Home, Search, and Your Library.
